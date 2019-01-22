@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ButterKnifeAndOkHttpDemo/ButterKnifeAndOkHttpDemo.iml" filepath="$PROJECT_DIR$/ButterKnifeAndOkHttpDemo/ButterKnifeAndOkHttpDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonFrameworkIntegration.iml" filepath="$PROJECT_DIR$/CommonFrameworkIntegration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventbusdemo/eventbusdemo.iml" filepath="$PROJECT_DIR$/eventbusdemo/eventbusdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glidedemo/glidedemo.iml" filepath="$PROJECT_DIR$/glidedemo/glidedemo.iml" />
+    </modules>
+  </component>
+</project>
